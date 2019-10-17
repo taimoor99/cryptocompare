@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.6f0221a5452d9ebfb3bb5e347d1e7b0c.css"],"names":[],"mappings":"AACA,gBACE,UAAW,AAGV,WAAa,CAFf,AAMD,+BACE,aAAc,CACf","file":"app.6f0221a5452d9ebfb3bb5e347d1e7b0c.css","sourcesContent":["\nsection.section{\r\n  width: 70%;\n}\nsection.section{\r\n   margin: auto;\n}\r\n\r\n\na.title[data-v-d5b2e6e4]:hover{\r\n  color:#3273dc;\n}\r\n\r\n"]}
